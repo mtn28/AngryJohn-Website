@@ -295,7 +295,7 @@ body::before {
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url('/Users/michaelteixeiranunes/Desktop/global-master/assets/img/background.png');
+    background-image: url('../img/background.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
