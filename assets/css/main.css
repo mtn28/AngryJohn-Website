@@ -962,7 +962,7 @@ body::before {
     padding: 15px 30px;
     font-size: 1.2em;
     color: #fff;
-    background-color: #408730;
+    background-color: rgb(0, 128, 0);
     border: none;
     border-radius: 5px;
     text-decoration: none;
@@ -970,7 +970,7 @@ body::before {
 }
 
 .download-button:hover {
-    background-color: #1fa028;
+    background-color: rgb(0, 100, 0);
 }
 
 .play-section {
