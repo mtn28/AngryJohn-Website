@@ -985,6 +985,10 @@ body::before {
     font-size: 4em;
     margin-bottom: 20px;
     color: #fff;
+    padding-top: 60px;
+    /* Add some padding to pull content down if needed */
+    margin-top: -80px;
+    /* Adjust this value to pull the title up */
 
 }
 
