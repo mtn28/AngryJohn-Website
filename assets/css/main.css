@@ -712,12 +712,13 @@ body::before {
     text-align: left;
     max-width: 800px;
     width: 100%;
-    margin: 120px auto 0 auto; /* Centrando a div e ajustando o valor do topo */
+    margin: 120px auto 0 auto;
+    /* Centrando a div e ajustando o valor do topo */
     margin-top: 0;
     /* Remove top margin */
     padding-top: 40px;
     /* Add some padding to pull content down if needed */
-   
+
 }
 
 .intro--banner h1 {
@@ -984,7 +985,7 @@ body::before {
     font-size: 4em;
     margin-bottom: 20px;
     color: #fff;
-    
+
 }
 
 .play-section p {
@@ -1126,6 +1127,4 @@ body::before {
 
 .text-large {
     font-size: 1.2em;
-  }
-
-
+}
