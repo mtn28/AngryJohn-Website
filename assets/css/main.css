@@ -1087,7 +1087,7 @@ body::before {
 
 .play-section {
     text-align: center;
-    padding-top: 90px;
+    padding-top: 80px;
     /* Add some padding to pull content down if needed */
     margin-top: -8px;
     /* Adjust this value to pull the title up */
