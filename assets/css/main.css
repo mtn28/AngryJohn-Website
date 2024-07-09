@@ -1047,7 +1047,7 @@ body::before {
 .trailer-section {
     margin-top: 0;
     /* Remove top margin */
-    margin-top: -20px;
+    margin-top: -10px;
     /* Adjust this value to pull the title up */
 }
 
