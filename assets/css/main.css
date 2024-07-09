@@ -1013,7 +1013,7 @@ body::before {
     /* Centraliza a seção horizontalmente */
     text-align: left;
     /* Centraliza o texto */
-    padding-top: 20px;
+    padding-top: 40px;
     /* Add some padding to pull content down if needed */
     margin-top: -20px;
     /* Adjust this value to pull the title up */
