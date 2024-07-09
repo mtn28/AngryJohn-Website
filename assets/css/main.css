@@ -1081,13 +1081,13 @@ body::before {
 .play-section h2 {
     font-size: 35px;
     /* Reduced font size */
-    margin-bottom: 10px;
+    margin-bottom: 30px;
     color: #fff;
 }
 
 .play-section {
     text-align: center;
-    padding-top: 100px;
+    padding-top: 120px;
     /* Add some padding to pull content down if needed */
     margin-top: -8px;
     /* Adjust this value to pull the title up */
