@@ -716,7 +716,7 @@ body::before {
     /* Centrando a div e ajustando o valor do topo */
     margin-top: 0;
     /* Remove top margin */
-    padding-top: 40px;
+    padding-top: 80px;
     /* Add some padding to pull content down if needed */
 
 }
@@ -993,7 +993,7 @@ body::before {
 }
 
 .play-section p {
-    font-size: 1.2em;
+    font-size: 1.2em;   
     margin-bottom: 40px;
     color: #fff;
 }
