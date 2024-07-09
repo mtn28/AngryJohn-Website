@@ -1018,7 +1018,7 @@ body::before {
     /* Centraliza a seção horizontalmente */
     text-align: left;
     /* Centraliza o texto */
-    padding-top: 60px;
+    padding-top: 90px;
     /* Add some padding to pull content down if needed */
     margin-top: -20px;
     /* Adjust this value to pull the title up */
@@ -1039,6 +1039,8 @@ body::before {
 .trailer-section {
     text-align: center;
     padding: 50px 20px;
+    padding-top: 90px;
+    /* Add some padding to pull content down if needed */
 
 }
 
@@ -1091,7 +1093,7 @@ body::before {
 
 .play-section {
     text-align: center;
-    padding-top: 80px;
+    padding-top: 120px;
     /* Add some padding to pull content down if needed */
     margin-top: -8px;
     /* Adjust this value to pull the title up */
