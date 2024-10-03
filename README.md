@@ -1,18 +1,25 @@
-# [Global: HTML5 website template](http://buckymaler.com/global)
+# 🌐 Angry John Website
 
-### [Featured on Freebiesbug](http://freebiesbug.com/psd-freebies/global-futuristic-one-page-portfolio-psd-html/)
+This website was created to promote the 3D game **Angry John**, where players take on the role of a brave monkey battling robots in a mystical jungle. It provides key details about the game, media content, and an option to play or download the game.
 
-Global is a modern and sleek website template crafted for professionals in the creative industry. Global can serve as a single page portfolio or be easily modified to serve as the perfect beginning for a hip creative agency.
+## 🕹️ Play the Game
 
-The original PSD is included and was provided by [Sergey Melnik](https://www.behance.net/SergeyMelnik).
+Visit the official website to:
+- **Play the WebGL version**: [Play Now](https://angry-john.vercel.app/)
+- **Download the game** for your platform: [Download Here](https://drive.usercontent.google.com/download?id=1jCPcqxp651h3_S37O7Idj8s5RjJ0KaOM&export=download&authuser=0)
 
-This project was developed with HTML5, Sass, jQuery, and Hammer.js.
+## 🎨 Website Features
 
-Performance basics are covered: assets are minified into single CSS and JS files, and the images are optimized.
+- **About the Game:** Detailed information about the game's storyline and mechanics.
+- **Media Section:** Screenshots and videos showcasing the game in action.
+- **Development Team:** Introduction to the team behind the project.
 
-[LIVE PREVIEW](http://buckymaler.com/global)
+## 🔨 Technologies Used
 
-## Misc:
+- **Next.js:** Framework for building the website.
+- **React:** JavaScript library for creating dynamic user interfaces.
+- **CSS/HTML:** For styling and structure.
 
-* Follow Bucky: [Twitter](https://twitter.com/BuckyMaler), [GitHub](https://github.com/BuckyMaler)
-* Follow Sergey: [Dribbble](https://dribbble.com/sergeymelnik), [Bēhance](https://www.behance.net/SergeyMelnik)
+## 📜 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
