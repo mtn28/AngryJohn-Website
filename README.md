@@ -19,7 +19,3 @@ Visit the official website to:
 - **Next.js:** Framework for building the website.
 - **React:** JavaScript library for creating dynamic user interfaces.
 - **CSS/HTML:** For styling and structure.
-
-## 📜 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
